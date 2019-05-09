@@ -1,5 +1,6 @@
 import random
 def coinToss():
+
     head_count = 0
     tail_count = 0
 
@@ -20,4 +21,5 @@ def coinToss():
     
     print "Ending the program, thank you! "
 coinToss()
+
 
